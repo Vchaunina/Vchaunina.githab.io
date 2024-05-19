@@ -1,0 +1,8 @@
+ <!DOCTYPE html>
+<head>
+
+    <!--кодировка в который написан html сайт(для коректного отображения)-->
+    <meta charset="UTF-8">
+    <!--информация будет отображаться по ширине окна браузера-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TourDetails</title>
