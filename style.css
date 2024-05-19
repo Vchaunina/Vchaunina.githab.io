@@ -16,13 +16,13 @@
 }
 
 .box {
-    width: 10000px; 
-    height: 500px; 
+    width: 15000px; 
+    height: 1000px; 
     border: 1px solid black;
     margin: 0 auto; 
     display: flex;
     justify-content: center; 
-    align-items: center; 
+    align-items: left; 
 }
 
 .img {
