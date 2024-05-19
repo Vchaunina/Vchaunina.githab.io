@@ -35,3 +35,28 @@
     text-decoration: none;
     color: black;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.product {
+    display: flex;
+    padding: 0 50px; 
+}
+
+.product-image {
+    max-width: 50%; 
+}
+
+.product-description {
+    padding: 0 50px; 
+}
+
+.buy-link, .download-link {
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: blue;
+}
